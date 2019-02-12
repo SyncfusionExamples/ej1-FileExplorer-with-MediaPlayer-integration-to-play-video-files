@@ -1,4 +1,4 @@
-# EJ1 FileExplorer with ejMediaPlayer integration to play video files
+# EJ1 FileExplorer with ejMediaPlayer integration to play video files in Asp Web Forms
 
 This project demonstrates on how to play video files in FileExplorer using ejMediaPlayer component. This can be achieved by customizing ejMediaPlayer in application-level with the help of FileExplorer BeforeOpen event.
 
