@@ -1,6 +1,6 @@
-# EJ1 FileExplorer video player support using ejMediaPlayer component
+# EJ1 FileExplorer with ejMediaPlayer integration to play video files
 
-This project demostrates on how to play audio or video files in FileExplorer using ejMediaPlayer component. This can be achieved by customizing ejMediaPlayer in application-level with the help of FileExplorer BeforeOpen event.
+This project demonstrates on how to play video files in FileExplorer using ejMediaPlayer component. This can be achieved by customizing ejMediaPlayer in application-level with the help of FileExplorer BeforeOpen event.
 
 ## How to run this application?
 
@@ -19,4 +19,4 @@ Once cloned, open solution file in visual studio.Then build the project after re
 
 ## Final Output
 
-![FileExplorer with mediaplayer integration to play video files](Output.png "FileExplorer with mediaplayer integration to play video files")
+![FileExplorer integrated with mediaplayer to play video files](Output.png "Video File opened in FileExplorer")
